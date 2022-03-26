@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fionahenley/notetaker2.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fionahenley/notetaker2/issues"
+  },
+  "homepage": "https://github.com/fionahenley/notetaker2#readme"
 }
